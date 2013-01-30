@@ -1,0 +1,22 @@
+{
+  "name": "daniel-puppet-jpackage-repo",
+  "author": "daniel",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "",
+  "checksums": {
+    "Modulefile": "80de16c0b4738128379849fbfb159ae6",
+    "README.markdown": "e052f21703a536d9fe8ea202379bc577",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "files/RPM-GPG-KEY-jpackage": "f9d4e3ad4e65ca266cbdd6c0da7c819c",
+    "files/jpackage.repo": "aa2232921967f95ee664ee81f99a76e0",
+    "manifests/init.pp": "12cc171b970cbf3722b1f05dd8b7f9cd",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests/init.pp": "3c295830e444e3f9da2c7413973245ad"
+  },
+  "dependencies": []
+}

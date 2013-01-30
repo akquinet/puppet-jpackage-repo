@@ -1,0 +1,3 @@
+# puppet-jpackage-repo #
+
+This is the puppet-jpackage-repo module. It provides...
